@@ -1,6 +1,6 @@
 # Diretorios Linux
 
-![Diretorios](image.png)
+![Diretorios](https://www.google.com/url?sa=i&url=https%3A%2F%2Fivanix.wordpress.com%2F2008%2F10%2F23%2Festrutura-de-diretorios-no-gnulinux%2F&psig=AOvVaw0Un9qG9ZzCKcVqika9EQsX&ust=1696365848879000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjbz7Cd2IEDFQAAAAAdAAAAABAE)
 
 O diretório raiz está tomado pelas pastas do sistema e espera-se que você armazene seus arquivos pessoais dentro da sua pasta no diretório /home. A primeira coisa com que você precisa se habituar é que no Linux os discos e partições não aparecem necessariamente como unidades diferentes, como o C:, D:, E: do Windows. Tudo faz parte de um único diretório, chamado diretório raiz.  
 
