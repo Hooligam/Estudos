@@ -1,5 +1,7 @@
 # Diretorios Linux
 
+![Diretorios](image.png)
+
 O diretório raiz está tomado pelas pastas do sistema e espera-se que você armazene seus arquivos pessoais dentro da sua pasta no diretório /home. A primeira coisa com que você precisa se habituar é que no Linux os discos e partições não aparecem necessariamente como unidades diferentes, como o C:, D:, E: do Windows. Tudo faz parte de um único diretório, chamado diretório raiz.  
 
 ```
@@ -36,5 +38,6 @@ Concentra os arquivos de configuração do sistema, substituindo de certa forma 
  /mnt
 ```
 (de “mount”) recebe este nome justamente por servir de ponto de montagem para o CD-ROM (/mnt/cdrom), drive de disquetes (/mnt/floppy), drives Zip e outros dispositivos de armazenamento. O uso do diretório /mnt é apenas uma convenção. Você pode alterar o ponto de montagem do CD-ROM para /CD, ou qualquer outro lugar se quiser.
+
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Elias Assunção](https://github.com/Hooligam) 🔥
