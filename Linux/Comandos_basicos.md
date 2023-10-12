@@ -1,6 +1,8 @@
 # Principais comandos basicos do dia a dia.
 
+---
 Esses comandos podem variar um pouco dependendo da sua rotina diária, mas eu decidi resumir os mais essenciais que sempre usamos. Existem outros que pretendo acrescentar ao longo do tempo.
+---
 
 ```
 cd
@@ -61,5 +63,5 @@ Reinicia o sistema, o que faz com que ele seja desligado e ligado novamente.
 shutdown
 ```
 Desliga ou reinicia o sistema.
----
+
 ⌨️ com ❤️ por [Elias Assunção](https://github.com/Hooligam) 🔥
