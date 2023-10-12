@@ -1,4 +1,4 @@
-# Principais comandos basicos do dia a dia.
+# Manipulação de diretorios e arquivos no linux.
 
 ---
 A manipulação de diretórios e arquivos no sistema operacional Linux é uma tarefa fundamental para qualquer administrador de sistema ou usuário que deseja gerenciar seus dados de forma eficiente. 
