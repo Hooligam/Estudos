@@ -4,7 +4,7 @@
 Em qualquer sistema operacional é muito importante saber gerenciar usuarios e grupos de usuarios.
 ---
 
-### Gerenciamento de Grupos:
+### Gerenciamento de Usuarios:
 
 
 ```
