@@ -3,7 +3,7 @@
 
 Identar um código é organizar e estruturar visualmente o código-fonte de um programa, inserindo espaços ou tabulações consistentes para destacar a hierarquia e a estrutura do código. A identação não altera o funcionamento do código, mas torna-o mais legível e compreensível para os programadores.
 
-## ➗ Blocos
+## 📦 Blocos
 
 Em Python um bloco de código inicia sempre que existe a presença de : no final de uma linha.
 
@@ -43,6 +43,7 @@ if 1 > 2:
 # e aqui continuamos o bloco principal (main)
 ```
 
+A maior parte dos editores de código possui ferramentas que ajudam a visualizar as linhas de identação.
 
 
 
