@@ -20,7 +20,7 @@ Resultado = 1 + 2
 
 ### Também existe a tabela de precedência de operadores do Python
 
-![alt text](Python\Imagens\image.png)
+![alt text](./Imagens/image.png)
 
 
 ## ⚙️ Statements
