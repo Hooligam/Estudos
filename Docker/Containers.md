@@ -1,5 +1,6 @@
 # O que é Containers?
-![Docker](.\Imagens\containers.png)
+
+![ID](./Imagens/containers.png)
 
 Contêineres na computação são uma tecnologia que permite empacotar e distribuir aplicativos juntamente com todas as suas dependências e configurações em um único pacote isolado. Cada contêiner é uma unidade de software leve, portátil e auto-suficiente que inclui tudo o que é necessário para executar o aplicativo: código, bibliotecas, ferramentas e configurações.
 
