@@ -21,4 +21,11 @@ docker network: Gerencia redes Docker.
 docker volume: Gerencia volumes Docker para armazenamento persistente.
 
 
+# Parametros (flags)
+
+[1](./Imagens/1.png)
+
+
+[2](./Imagens/2.png)
+
 ⌨️ com ❤️ por [Elias Assunção](https://github.com/Hooligam) 🔥
