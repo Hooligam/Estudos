@@ -6,15 +6,15 @@ Contêineres na computação são uma tecnologia que permite empacotar e distrib
 
 ## 📌 Essa abordagem de empacotamento oferece várias vantagens:
 
-*Portabilidade:* Os contêineres são executados em qualquer ambiente compatível com a plataforma de contêineres, garantindo que o aplicativo funcione da mesma forma em qualquer lugar, desde o desenvolvimento até a produção.
+**Portabilidade:** Os contêineres são executados em qualquer ambiente compatível com a plataforma de contêineres, garantindo que o aplicativo funcione da mesma forma em qualquer lugar, desde o desenvolvimento até a produção.
 
-*Isolamento:* Os contêineres isolam aplicativos uns dos outros e do sistema hospedeiro, garantindo que não haja conflitos entre dependências e que os aplicativos possam ser executados de forma segura e confiável.
+**Isolamento:** Os contêineres isolam aplicativos uns dos outros e do sistema hospedeiro, garantindo que não haja conflitos entre dependências e que os aplicativos possam ser executados de forma segura e confiável.
 
-*Eficiência:* Os contêineres compartilham o sistema operacional hospedeiro e recursos subjacentes, o que os torna mais leves em comparação com máquinas virtuais tradicionais. Isso resulta em um melhor aproveitamento de recursos e uma maior eficiência no uso de hardware.
+**Eficiência:** Os contêineres compartilham o sistema operacional hospedeiro e recursos subjacentes, o que os torna mais leves em comparação com máquinas virtuais tradicionais. Isso resulta em um melhor aproveitamento de recursos e uma maior eficiência no uso de hardware.
 
-*Escalabilidade:* Os contêineres podem ser rapidamente implantados e dimensionados para cima ou para baixo conforme necessário, permitindo uma resposta ágil às demandas de tráfego e carga de trabalho.
+**Escalabilidade:** Os contêineres podem ser rapidamente implantados e dimensionados para cima ou para baixo conforme necessário, permitindo uma resposta ágil às demandas de tráfego e carga de trabalho.
 
-*Consistência:* Como os contêineres incluem todas as dependências e configurações necessárias, garante-se que o ambiente de execução seja consistente em todos os estágios do ciclo de vida do aplicativo, desde o desenvolvimento até a produção.
+**Consistência:** Como os contêineres incluem todas as dependências e configurações necessárias, garante-se que o ambiente de execução seja consistente em todos os estágios do ciclo de vida do aplicativo, desde o desenvolvimento até a produção.
 
 
 ## ⚙️ Analogia
